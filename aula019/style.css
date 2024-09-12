@@ -1,12 +1,14 @@
 body {
     background:rgb(79, 142, 235);
     font:15pt Arial ;
+    margin: 0;
 
 }
 
 header {
      color: white;
-     text-align: 10px;
+     text-align: center;
+     padding: 10px;
 
 }
 
